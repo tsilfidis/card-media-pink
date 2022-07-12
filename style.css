@@ -23,7 +23,7 @@
     color: var(--text-color);
     background-image: url(https://images.unsplash.com/photo-1556139943-4bdca53adf1e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8);
     background-size: 150%;
-    background-position: top;
+    /*background-position: top;*/
     font-family: 'Roboto', sans-serif;
     max-height: 100vh;
   }
